@@ -42,7 +42,9 @@ namespace ShareX
         [Description("简体中文 (Simplified Chinese)")]
         SimplifiedChinese,
         [Description("Türkçe (Turkish)")]
-        Turkish
+        Turkish,
+        [Description("Português (Brasil)")]
+        BrazilianPortuguese
     }
 
     public enum EImageFormat

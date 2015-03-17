@@ -66,6 +66,9 @@ namespace ShareX
                     case SupportedLanguage.Hungarian:
                         cultureName = "hu-HU";
                         break;
+                    case SupportedLanguage.BrazilianPortuguese:
+                        cultureName = "pt-BR";
+                        break;
                 }
 
                 currentCulture = CultureInfo.GetCultureInfo(cultureName);
