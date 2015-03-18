@@ -165,6 +165,9 @@ namespace ShareX
                 case SupportedLanguage.Hungarian:
                     icon = Resources.hu;
                     break;
+                case SupportedLanguage.BrazilianPortuguese:
+                    icon = Resources.br;
+                    break;
             }
 
             return icon;

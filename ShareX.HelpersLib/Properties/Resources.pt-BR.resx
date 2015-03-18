@@ -118,141 +118,141 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ActionsCodeMenuEntry_FilePath_File_path" xml:space="preserve">
-    <value>File path</value>
+    <value>Caminho do arquivo</value>
   </data>
   <data name="ActionsCodeMenuEntry_OutputFilePath_File_path_without_extension____Output_file_name_extension_" xml:space="preserve">
-    <value>File path without extension + "Output file name extension"</value>
+    <value>Caminho do arquivo sem extensão + "Output file name extension"</value>
   </data>
   <data name="AfterCaptureTasks_AddImageEffects" xml:space="preserve">
     <value>Add image effects / watermark</value>
   </data>
   <data name="AfterCaptureTasks_AnnotateImage" xml:space="preserve">
-    <value>Open in image editor</value>
+    <value>Abrir no editor de imagem</value>
   </data>
   <data name="AfterCaptureTasks_CopyFilePathToClipboard" xml:space="preserve">
-    <value>Copy file path to clipboard</value>
+    <value>Copiar caminho do arquivo para área de transferência</value>
   </data>
   <data name="AfterCaptureTasks_CopyFileToClipboard" xml:space="preserve">
-    <value>Copy file to clipboard</value>
+    <value>Copiar arquivo para área de transferência</value>
   </data>
   <data name="AfterCaptureTasks_CopyImageToClipboard" xml:space="preserve">
-    <value>Copy image to clipboard</value>
+    <value>Copiar imagem para área de transferência</value>
   </data>
   <data name="AfterCaptureTasks_DeleteFile" xml:space="preserve">
-    <value>Delete file locally</value>
+    <value>Excluir arquivo local</value>
   </data>
   <data name="AfterCaptureTasks_PerformActions" xml:space="preserve">
-    <value>Perform actions</value>
+    <value>Executar ações</value>
   </data>
   <data name="AfterCaptureTasks_SaveImageToFile" xml:space="preserve">
-    <value>Save image to file</value>
+    <value>Salvar imagem</value>
   </data>
   <data name="AfterCaptureTasks_SaveImageToFileWithDialog" xml:space="preserve">
-    <value>Save image to file as...</value>
+    <value>Salvar imagem como...</value>
   </data>
   <data name="AfterCaptureTasks_SaveThumbnailImageToFile" xml:space="preserve">
-    <value>Save thumbnail image to file</value>
+    <value>Salvar thumbnail imagem</value>
   </data>
   <data name="AfterCaptureTasks_SendImageToPrinter" xml:space="preserve">
-    <value>Print image</value>
+    <value>Imprimir imagem</value>
   </data>
   <data name="AfterCaptureTasks_UploadImageToHost" xml:space="preserve">
     <value>Upload image to host</value>
   </data>
   <data name="AfterUploadTasks_CopyURLToClipboard" xml:space="preserve">
-    <value>Copy URL to clipboard</value>
+    <value>Copiar URL para área de transferência</value>
   </data>
   <data name="AfterUploadTasks_OpenURL" xml:space="preserve">
-    <value>Open URL</value>
+    <value>Abrir URL</value>
   </data>
   <data name="AfterUploadTasks_ShareURL" xml:space="preserve">
-    <value>Share URL</value>
+    <value>Compartilhar URL</value>
   </data>
   <data name="AfterUploadTasks_ShowQRCode" xml:space="preserve">
-    <value>Show QR code window</value>
+    <value>Exibir QR code window</value>
   </data>
   <data name="AfterUploadTasks_UseURLShortener" xml:space="preserve">
-    <value>Shorten URL</value>
+    <value>Encurtar URL</value>
   </data>
   <data name="ClipboardContentViewer_ClipboardContentViewer_Load_Clipboard_content__File__Count___0__" xml:space="preserve">
-    <value>Clipboard content: File (Count: {0})</value>
+    <value>Área de transferência: Arquivo (Count: {0})</value>
   </data>
   <data name="ClipboardContentViewer_ClipboardContentViewer_Load_Clipboard_content__Image__Size___0_x_1__" xml:space="preserve">
-    <value>Clipboard content: Image (Size: {0}x{1})</value>
+    <value>Área de transferência: Imagem (Size: {0}x{1})</value>
   </data>
   <data name="ClipboardContentViewer_ClipboardContentViewer_Load_Clipboard_content__Text__Length___0__" xml:space="preserve">
-    <value>Clipboard content: Text (Length: {0})</value>
+    <value>Área de transferência: Texto (Length: {0})</value>
   </data>
   <data name="ClipboardContentViewer_ClipboardContentViewer_Load_Clipboard_is_empty_or_contains_unknown_data_" xml:space="preserve">
-    <value>Clipboard is empty or contains unknown data.</value>
+    <value>Área de transferência está vazia ou contém dado desconhecido.</value>
   </data>
   <data name="CMYK_ToString_Cyan___0_0_0____Magenta___1_0_0____Yellow___2_0_0____Key___3_0_0__" xml:space="preserve">
     <value>Cyan: {0:0.0}%, Magenta: {1:0.0}%, Yellow: {2:0.0}%, Key: {3:0.0}%</value>
   </data>
   <data name="CodeMenu_Create_Close" xml:space="preserve">
-    <value>Close</value>
+    <value>Fechar</value>
   </data>
   <data name="CssFileNameEditor_EditValue_Browse_for_a_Cascading_Style_Sheet___" xml:space="preserve">
-    <value>Browse for a Cascading Style Sheet...</value>
+    <value>Procurar Cascading Style Sheet...</value>
   </data>
   <data name="DirectoryNameEditor_EditValue_Browse_for_a_folder___" xml:space="preserve">
-    <value>Browse for a folder...</value>
+    <value>Procurar pasta...</value>
   </data>
   <data name="DNSChangerForm_btnSave_Click_DNS_successfully_set_" xml:space="preserve">
-    <value>DNS successfully set.</value>
+    <value>DNS configurado com sucesso.</value>
   </data>
   <data name="DNSChangerForm_btnSave_Click_DNS_successfully_set__Reboot_is_required_" xml:space="preserve">
-    <value>DNS successfully set. Reboot is required.</value>
+    <value>DNS configurado com sucesso. Necessário reiniciar.</value>
   </data>
   <data name="DNSChangerForm_btnSave_Click_Setting_DNS_failed_" xml:space="preserve">
-    <value>Setting DNS failed.</value>
+    <value>Falha na configuração do DNS.</value>
   </data>
   <data name="DNSChangerForm_btnSave_Click_Setting_DNS_failed_with_error_code_" xml:space="preserve">
-    <value>Setting DNS failed with error code:</value>
+    <value>Falha na configuração do DNS com código e erro.</value>
   </data>
   <data name="DNSChangerForm_DNSChangerForm_Manual" xml:space="preserve">
     <value>Manual</value>
   </data>
   <data name="DownloaderForm_ChangeProgress_Progress" xml:space="preserve">
-    <value>Progress: {0:0.0}%
-Download speed: {1:0.0} KB/s
-File size: {2:n0} / {3:n0} KB</value>
+    <value>Progresso: {0:0.0}%
+Velocidade do download: {1:0.0} KB/s
+Tamanho do arquivo: {2:n0} / {3:n0} KB</value>
   </data>
   <data name="DownloaderForm_ChangeStatus_Status___0_" xml:space="preserve">
     <value>Status: {0}</value>
   </data>
   <data name="DownloaderForm_DownloaderForm_Filename___0_" xml:space="preserve">
-    <value>Filename: {0}</value>
+    <value>Nome do Arquivo: {0}</value>
   </data>
   <data name="DownloaderForm_DownloaderForm_Waiting_" xml:space="preserve">
-    <value>Waiting.</value>
+    <value>Aguardando.</value>
   </data>
   <data name="DownloaderForm_fileDownloader_DownloadCompleted_Download_completed_" xml:space="preserve">
-    <value>Download completed.</value>
+    <value>Download concluído</value>
   </data>
   <data name="DownloaderForm_fileDownloader_DownloadCompleted_Install" xml:space="preserve">
     <value>Install</value>
   </data>
   <data name="DownloaderForm_StartDownload_Cancel" xml:space="preserve">
-    <value>Cancel</value>
+    <value>Cancelar</value>
   </data>
   <data name="DownloaderForm_StartDownload_Downloading_" xml:space="preserve">
-    <value>Downloading.</value>
+    <value>Baixando.</value>
   </data>
   <data name="DownloaderForm_StartDownload_Getting_file_size_" xml:space="preserve">
-    <value>Getting file size.</value>
+    <value>Obtendo o tamanho do arquivo.</value>
   </data>
   <data name="Error" xml:space="preserve">
-    <value>Error</value>
+    <value>Erro</value>
   </data>
   <data name="ExeFileNameEditor_EditValue_Browse_for_executable___" xml:space="preserve">
-    <value>Browse for executable...</value>
+    <value>Procurar executável...</value>
   </data>
   <data name="ExportImportControl_Deserialize_Import_failed_" xml:space="preserve">
-    <value>Import failed.</value>
+    <value>Falha na exportação.</value>
   </data>
   <data name="ExportImportControl_Serialize_Export_failed_" xml:space="preserve">
-    <value>Export failed.</value>
+    <value>Falha na importacão.</value>
   </data>
   <data name="ExportImportControl_tsmiExportClipboard_Click_Settings_copied_to_your_clipboard_" xml:space="preserve">
     <value>Settings copied to your clipboard.</value>
@@ -261,13 +261,13 @@ File size: {2:n0} / {3:n0} KB</value>
     <value>URL to download settings from</value>
   </data>
   <data name="Extensions_AddContextMenu_Copy" xml:space="preserve">
-    <value>Copy</value>
+    <value>Copiar</value>
   </data>
   <data name="Extensions_AddContextMenu_Cut" xml:space="preserve">
-    <value>Cut</value>
+    <value>Cortar</value>
   </data>
   <data name="Extensions_AddContextMenu_Paste" xml:space="preserve">
-    <value>Paste</value>
+    <value>Colar</value>
   </data>
   <data name="FileDestination_CustomFileUploader" xml:space="preserve">
     <value>Custom file uploader</value>
@@ -276,7 +276,7 @@ File size: {2:n0} / {3:n0} KB</value>
     <value>Email</value>
   </data>
   <data name="FileDestination_SharedFolder" xml:space="preserve">
-    <value>Shared folder</value>
+    <value>Compartilhar pasta</value>
   </data>
   <data name="FileExistAction_Ask" xml:space="preserve">
     <value>Ask what to do</value>
@@ -285,13 +285,13 @@ File size: {2:n0} / {3:n0} KB</value>
     <value>Do not save</value>
   </data>
   <data name="FileExistAction_Overwrite" xml:space="preserve">
-    <value>Overwrite file</value>
+    <value>Sobrescrever arquivo</value>
   </data>
   <data name="FileExistAction_UniqueName" xml:space="preserve">
     <value>Append number to the filename</value>
   </data>
   <data name="FolderSelectDialog_Title_Select_a_folder" xml:space="preserve">
-    <value>Select a folder</value>
+    <value>Selecionar uma pasta</value>
   </data>
   <data name="GIFQuality_Bit4" xml:space="preserve">
     <value>Octree quantizer 16 colors</value>
@@ -306,7 +306,7 @@ File size: {2:n0} / {3:n0} KB</value>
     <value>Palette quantizer grayscale 256 colors</value>
   </data>
   <data name="HashCheckForm_btnFilePathBrowse_Click_Choose_file_path" xml:space="preserve">
-    <value>Choose file path</value>
+    <value>Escolher caminho do arquivo</value>
   </data>
   <data name="Helpers_CreateDirectoryIfNotExist_Create_failed_" xml:space="preserve">
     <value>Could not create directory, check your path settings.</value>
@@ -318,10 +318,10 @@ File size: {2:n0} / {3:n0} KB</value>
     <value>Folder not exist:</value>
   </data>
   <data name="HotkeyType_ActiveMonitor" xml:space="preserve">
-    <value>Capture active monitor</value>
+    <value>Capturar monitor ativo</value>
   </data>
   <data name="HotkeyType_ActiveWindow" xml:space="preserve">
-    <value>Capture active window</value>
+    <value>Capturar janela ativa</value>
   </data>
   <data name="HotkeyType_AutoCapture" xml:space="preserve">
     <value>Auto capture</value>
@@ -357,7 +357,7 @@ File size: {2:n0} / {3:n0} KB</value>
     <value>Capture freehand region</value>
   </data>
   <data name="HotkeyType_FTPClient" xml:space="preserve">
-    <value>FTP client</value>
+    <value>Cliente FTP</value>
   </data>
   <data name="HotkeyType_HashCheck" xml:space="preserve">
     <value>Hash check</value>
@@ -507,37 +507,37 @@ File size: {2:n0} / {3:n0} KB</value>
     <value>Current minute</value>
   </data>
   <data name="ReplCodeMenuEntry_mon2_Current_month_name__English_" xml:space="preserve">
-    <value>Current month name (English)</value>
+    <value>Nome do mês atual (em Inglês)</value>
   </data>
   <data name="ReplCodeMenuEntry_mon_Current_month_name__Local_language_" xml:space="preserve">
-    <value>Current month name (Local language)</value>
+    <value>Nome do mês atual (no idioma local)</value>
   </data>
   <data name="ReplCodeMenuEntry_mo_Current_month" xml:space="preserve">
-    <value>Current month</value>
+    <value>Mês atual</value>
   </data>
   <data name="ReplCodeMenuEntry_ms_Current_millisecond" xml:space="preserve">
-    <value>Current millisecond</value>
+    <value>Milissegundo atual</value>
   </data>
   <data name="ReplCodeMenuEntry_n_New_line" xml:space="preserve">
-    <value>New line</value>
+    <value>Nova linha</value>
   </data>
   <data name="ReplCodeMenuEntry_pm_Gets_AM_PM" xml:space="preserve">
     <value>Gets AM/PM</value>
   </data>
   <data name="ReplCodeMenuEntry_pn_Process_name_of_active_window" xml:space="preserve">
-    <value>Process name of active window</value>
+    <value>Nome do processo de janela ativa</value>
   </data>
   <data name="ReplCodeMenuEntry_ra_Random_alphanumeric_char" xml:space="preserve">
-    <value>Random alphanumeric char</value>
+    <value>Caractere aleatório</value>
   </data>
   <data name="ReplCodeMenuEntry_rn_Random_number_0_to_9" xml:space="preserve">
-    <value>Random number 0 to 9</value>
+    <value>Número aleatório entre 0 e 9</value>
   </data>
   <data name="ReplCodeMenuEntry_s_Current_second" xml:space="preserve">
-    <value>Current second</value>
+    <value>Segundos atual</value>
   </data>
   <data name="ReplCodeMenuEntry_t_Title_of_active_window" xml:space="preserve">
-    <value>Title of active window</value>
+    <value>Título da janela ativa</value>
   </data>
   <data name="ReplCodeMenuEntry_uln_User_login_name" xml:space="preserve">
     <value>User login name</value>
@@ -546,22 +546,22 @@ File size: {2:n0} / {3:n0} KB</value>
     <value>Unix timestamp</value>
   </data>
   <data name="ReplCodeMenuEntry_un_User_name" xml:space="preserve">
-    <value>User name</value>
+    <value>Nome de usuário</value>
   </data>
   <data name="ReplCodeMenuEntry_w2_Current_week_name__English_" xml:space="preserve">
     <value>Current week name (English)</value>
   </data>
   <data name="ReplCodeMenuEntry_width_Gets_image_width" xml:space="preserve">
-    <value>Image width</value>
+    <value>Largura da Imagem</value>
   </data>
   <data name="ReplCodeMenuEntry_w_Current_week_name__Local_language_" xml:space="preserve">
     <value>Current week name (Local language)</value>
   </data>
   <data name="ReplCodeMenuEntry_yy_Current_year__2_digits_" xml:space="preserve">
-    <value>Current year (2 digits)</value>
+    <value>Ano atual (2 digitos)</value>
   </data>
   <data name="ReplCodeMenuEntry_y_Current_year" xml:space="preserve">
-    <value>Current year</value>
+    <value>Ano atual</value>
   </data>
   <data name="ResponseType_Headers" xml:space="preserve">
     <value>Response headers</value>
@@ -573,13 +573,13 @@ File size: {2:n0} / {3:n0} KB</value>
     <value>Response text</value>
   </data>
   <data name="Start" xml:space="preserve">
-    <value>Start</value>
+    <value>Iniciar</value>
   </data>
   <data name="Stop" xml:space="preserve">
-    <value>Stop</value>
+    <value>Parar</value>
   </data>
   <data name="SupportedLanguage_Automatic" xml:space="preserve">
-    <value>Automatic</value>
+    <value>Automático</value>
   </data>
   <data name="TextDestination_CustomTextUploader" xml:space="preserve">
     <value>Custom text uploader</value>

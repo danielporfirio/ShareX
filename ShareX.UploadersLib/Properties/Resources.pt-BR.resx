@@ -118,25 +118,25 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="CertFileNameEditor_EditValue_Browse_for_a_certificate_file___" xml:space="preserve">
-    <value>Browse for a certificate file...</value>
+    <value>Procurar um arquivo de certificado ...</value>
   </data>
   <data name="DropboxFilesForm_OpenDirectory_Path_not_exist_" xml:space="preserve">
-    <value>Path not exist:</value>
+    <value>Caminho não existe:</value>
   </data>
   <data name="DropboxFilesForm_tsmiCreateDirectory_Click_Directory_name_to_create" xml:space="preserve">
     <value>Directory name to create</value>
   </data>
   <data name="DropboxFilesForm_tsmiDelete_Click_Are_you_sure_you_want_to_delete___0___from_your_Dropbox_" xml:space="preserve">
-    <value>Are you sure you want to delete "{0}" from your Dropbox?</value>
+    <value>Tem certeza de que deseja excluir "{0}" de seu Dropbox?</value>
   </data>
   <data name="DropboxFilesForm_tsmiDelete_Click_Delete_file_" xml:space="preserve">
-    <value>Delete file?</value>
+    <value>Apagar arquivo?</value>
   </data>
   <data name="FTPClientForm_FTPClientForm_Connecting_to__0_" xml:space="preserve">
-    <value>Connecting to {0}</value>
+    <value>Conectando-se a {0}</value>
   </data>
   <data name="FTPClientForm_FTPClientForm_ShareX_FTP_client" xml:space="preserve">
-    <value>ShareX FTP client</value>
+    <value>ShareX cliente FTP</value>
   </data>
   <data name="FTPClientForm_FTPCreateDirectory_Directory_name_to_create" xml:space="preserve">
     <value>Directory name to create</value>
@@ -148,22 +148,22 @@
     <value>Browse for a key file...</value>
   </data>
   <data name="OAuthControl_Status_Status__Logged_in_" xml:space="preserve">
-    <value>Status: Logged in.</value>
+    <value>Status: logado.</value>
   </data>
   <data name="OAuthControl_Status_Status__Login_failed_" xml:space="preserve">
-    <value>Status: Login failed.</value>
+    <value>Status: Falha de logon.</value>
   </data>
   <data name="OAuthControl_Status_Status__Not_logged_in_" xml:space="preserve">
-    <value>Status: Not logged in.</value>
+    <value>Status: Não logado.</value>
   </data>
   <data name="OAuthInfo_OAuthInfo_New_account" xml:space="preserve">
-    <value>New account</value>
+    <value>Nova conta</value>
   </data>
   <data name="OneDrive_RootFolder_Root_folder" xml:space="preserve">
-    <value>Root folder</value>
+    <value>Pasta raiz</value>
   </data>
   <data name="TwitterTweetForm_SendTweet_Tweet_error" xml:space="preserve">
-    <value>Tweet error</value>
+    <value>Tweet erro</value>
   </data>
   <data name="UploadersConfigForm_BoxListFolders_Box_refresh_folders_list_failed" xml:space="preserve">
     <value>Box refresh folders list failed</value>
@@ -172,71 +172,71 @@
     <value>Login successful but getting account info failed.</value>
   </data>
   <data name="UploadersConfigForm_Error" xml:space="preserve">
-    <value>Error</value>
+    <value>Erro</value>
   </data>
   <data name="UploadersConfigForm_FormSettings_Authorize" xml:space="preserve">
-    <value>Authorize</value>
+    <value>Autorizar</value>
   </data>
   <data name="UploadersConfigForm_HubicListFolders_Hubic_refresh_folders_list_failed" xml:space="preserve">
     <value>Hubic refresh folders list failed</value>
   </data>
   <data name="UploadersConfigForm_ListFolders_Authentication_required_" xml:space="preserve">
-    <value>Authentication required.</value>
+    <value>É necessária autenticação.</value>
   </data>
   <data name="UploadersConfigForm_LoadSettings_Invalid_device_name" xml:space="preserve">
-    <value>Invalid device name</value>
+    <value>Nome do dispositivo inválido</value>
   </data>
   <data name="UploadersConfigForm_LoadSettings_Parent_album_path_e_g_" xml:space="preserve">
     <value>Parent album path e.g.</value>
   </data>
   <data name="UploadersConfigForm_LoadSettings_Selected_folder_" xml:space="preserve">
-    <value>Selected folder:</value>
+    <value>Pasta selecionada:</value>
   </data>
   <data name="UploadersConfigForm_Login_failed" xml:space="preserve">
-    <value>Login failed.</value>
+    <value>Falha no login.</value>
   </data>
   <data name="UploadersConfigForm_Login_successful" xml:space="preserve">
     <value>Login successful.</value>
   </data>
   <data name="UploadersConfigForm_MegaConfigureTab_Click_refresh_button" xml:space="preserve">
-    <value>Click refresh button</value>
+    <value>Clique no botão Atualizar</value>
   </data>
   <data name="UploadersConfigForm_MegaConfigureTab_Configured" xml:space="preserve">
-    <value>Configured</value>
+    <value>Configurado</value>
   </data>
   <data name="UploadersConfigForm_MegaConfigureTab_Invalid_authentication" xml:space="preserve">
-    <value>Invalid authentication</value>
+    <value>Autenticação inválido</value>
   </data>
   <data name="UploadersConfigForm_MegaConfigureTab_Not_configured" xml:space="preserve">
-    <value>Not configured</value>
+    <value>Não configurado</value>
   </data>
   <data name="UploadersConfigForm_MinusUpdateControls_Logged_in_as__0__" xml:space="preserve">
-    <value>Logged in as {0}.</value>
+    <value>Logado como {0}.</value>
   </data>
   <data name="UploadersConfigForm_MinusUpdateControls_Not_logged_in_" xml:space="preserve">
-    <value>Not logged in.</value>
+    <value>Não está logado.</value>
   </data>
   <data name="UploadersConfigForm_oAuthJira_RefreshButtonClicked_Refresh_authorization_is_not_supported_" xml:space="preserve">
     <value>Refresh authorization is not supported.</value>
   </data>
   <data name="UploadersConfigForm_OneDriveAddFolder_Querying_folders___" xml:space="preserve">
-    <value>Querying folders...</value>
+    <value>Consultando pastas ...</value>
   </data>
   <data name="UploadersConfigForm_PhotobucketCreateAlbum__0__successfully_created_" xml:space="preserve">
-    <value>{0} successfully created.</value>
+    <value>{0} criado com sucesso.</value>
   </data>
   <data name="UploadersConfigForm_SendSpaceRegister_SendSpace_Registration___" xml:space="preserve">
     <value>SendSpace registration</value>
   </data>
   <data name="UploadersConfigForm_TestCustomUploader_Error__Result_is_empty_" xml:space="preserve">
-    <value>Error: Result is empty.</value>
+    <value>Erro: O resultado está vazio.</value>
   </data>
   <data name="UploadersConfigForm_TestFTPAccount_Connected_" xml:space="preserve">
-    <value>Connected!</value>
+    <value>Conectado!</value>
   </data>
   <data name="UploadersConfigForm_TestFTPAccount_Connected_Created_folders" xml:space="preserve">
-    <value>Connected!
-Created folders:</value>
+    <value>Conectado!
+Pastas criadas:</value>
   </data>
   <data name="UploadersConfigForm_UpdateDropboxStatus_Download_path_" xml:space="preserve">
     <value>Download path:</value>
@@ -245,7 +245,7 @@ Created folders:</value>
     <value>Email:</value>
   </data>
   <data name="UploadersConfigForm_UpdateDropboxStatus_Name_" xml:space="preserve">
-    <value>Name:</value>
+    <value>Nome:</value>
   </data>
   <data name="UploadersConfigForm_UpdateDropboxStatus_Upload_path_" xml:space="preserve">
     <value>Upload path:</value>

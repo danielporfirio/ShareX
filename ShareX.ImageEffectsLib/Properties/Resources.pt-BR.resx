@@ -118,18 +118,18 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ImageEffectsForm_AddAllEffectsToTreeView_Adjustments" xml:space="preserve">
-    <value>Adjustments</value>
+    <value>Ajustes</value>
   </data>
   <data name="ImageEffectsForm_AddAllEffectsToTreeView_Drawings" xml:space="preserve">
-    <value>Drawings</value>
+    <value>Desenhos</value>
   </data>
   <data name="ImageEffectsForm_AddAllEffectsToTreeView_Filters" xml:space="preserve">
-    <value>Filters</value>
+    <value>Filtros</value>
   </data>
   <data name="ImageEffectsForm_AddAllEffectsToTreeView_Manipulations" xml:space="preserve">
-    <value>Manipulations</value>
+    <value>Manipulações</value>
   </data>
   <data name="ImageEffectsForm_UpdatePreview_Image_effects___Width___0___Height___1___Render_time___2__ms" xml:space="preserve">
-    <value>Image effects - Width: {0}, Height: {1}, Render time: {2} ms</value>
+    <value>Efeitos de imagem - Largura: {0}, Altura: {1}, Tempo de renderização: {2} ms</value>
   </data>
 </root>
